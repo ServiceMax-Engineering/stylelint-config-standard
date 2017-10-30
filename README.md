@@ -1,4 +1,4 @@
-# stylelint-config-standard
+# svmx-stylelint-config-standard
 
 [![NPM version](http://img.shields.io/npm/v/stylelint-config-standard.svg)](https://www.npmjs.org/package/stylelint-config-standard) [![Build Status](https://travis-ci.org/stylelint/stylelint-config-standard.svg?branch=master)](https://travis-ci.org/stylelint/stylelint-config-standard) [![Build status](https://ci.appveyor.com/api/projects/status/o8rfhyax6n7bjnlt/branch/master?svg=true)](https://ci.appveyor.com/project/stylelint/stylelint-config-standard/branch/master)
 
@@ -14,7 +14,7 @@ It favours flexibility over strictness for things like multi-line lists and sing
 
 Use it as is or as a foundation for your own config.
 
-To see the rules that this config uses, please read the [config itself](./index.js).
+To see the rules that this config uses, please read the [config itself](./index.js). You also need to read [svmx config file](./svmx.js), and [svmx-sass config file](https://github.com/ServiceMax-Engineering/stylelint-config-sass-guidelines/blob/master/svmx.js) when working with sass.
 
 ## Example
 
